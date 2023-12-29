@@ -1,10 +1,10 @@
 # Spam-Filtering <a name="spam-filtering"></a>
 
 ## Table of Contents
-* [Spam-Filtering] (#spam-filtering)
- * [About] (#about)
- * [Installing Spam-Filtering] (#installation)
- * [Running Spam-Filtering] (#usage)
+* [Spam-Filtering](#spam-filtering)
+ * [About](#about)
+ * [Installing Spam-Filtering](#installation)
+ * [Running Spam-Filtering](#usage)
 
 
 ## About <a name="about"></a>
